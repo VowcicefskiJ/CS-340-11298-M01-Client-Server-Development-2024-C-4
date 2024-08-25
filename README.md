@@ -1,4 +1,4 @@
-# CS-340-11298-M01-Client-Server-Development-2024-C-4
+# CS-340-11298-M01-Client-Server-Development-2024
 
 Reflection
 How do you write programs that are maintainable, readable, and adaptable?
